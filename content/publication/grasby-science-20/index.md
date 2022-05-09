@@ -1,0 +1,398 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: The genetic architecture of the human cerebral cortex
+subtitle: ''
+summary: ''
+authors:
+- Katrina L. Grasby
+- Neda Jahanshad
+- Jodie N. Painter
+- Lucı́a Colodro-Conde
+- Janita Bralten
+- Derrek P. Hibar
+- Penelope A. Lind
+- Fabrizio Pizzagalli
+- Christopher R. K. Ching
+- Mary Agnes B. McMahon
+- Natalia Shatokhina
+- Leo C. P. Zsembik
+- Sophia I. Thomopoulos
+- Alyssa H. Zhu
+- Lachlan T. Strike
+- Ingrid Agartz
+- Saud Alhusaini
+- Marcio A. A. Almeida
+- Dag Alnæs
+- Inge K. Amlien
+- Micael Andersson
+- Tyler Ard
+- Nicola J. Armstrong
+- Allison Ashley-Koch
+- Joshua R. Atkins
+- Manon Bernard
+- Rachel M. Brouwer
+- Elizabeth E. L. Buimer
+- Robin Bülow
+- Christian Bürger
+- Dara M. Cannon
+- Mallar Chakravarty
+- Qiang Chen
+- Joshua W. Cheung
+- Baptiste Couvy-Duchesne
+- Anders M. Dale
+- Shareefa Dalvie
+- Tânia K. de Araujo
+- Greig I. de Zubicaray
+- Sonja M. C. de Zwarte
+- Anouk den Braber
+- Nhat Trung Doan
+- Katharina Dohm
+- Stefan Ehrlich
+- Hannah-Ruth Engelbrecht
+- Susanne Erk
+- Chun Chieh Fan
+- Iryna O. Fedko
+- Sonya F. Foley
+- Judith M. Ford
+- Masaki Fukunaga
+- Melanie E. Garrett
+- Tian Ge
+- Sudheer Giddaluru
+- Aaron L. Goldman
+- Melissa J. Green
+- Nynke A. Groenewold
+- Dominik Grotegerd
+- Tiril P. Gurholt
+- Boris A. Gutman
+- Narelle K. Hansell
+- Mathew A. Harris
+- Marc B. Harrison
+- Courtney C. Haswell
+- Michael Hauser
+- Stefan Herms
+- Dirk J. Heslenfeld
+- New Fei Ho
+- David Hoehn
+- Per Hoffmann
+- Laurena Holleran
+- Martine Hoogman
+- Jouke-Jan Hottenga
+- Masashi Ikeda
+- Deborah Janowitz
+- Iris E. Jansen
+- Tianye Jia
+- Christiane Jockwitz
+- Ryota Kanai
+- Sherif Karama
+- Dalia Kasperaviciute
+- Tobias Kaufmann
+- Sinead Kelly
+- Masataka Kikuchi
+- Marieke Klein
+- Michael Knapp
+- Annchen R. Knodt
+- Bernd Krämer
+- Max Lam
+- Thomas M. Lancaster
+- Phil H. Lee
+- Tristram A. Lett
+- Lindsay B. Lewis
+- Iscia Lopes-Cendes
+- Michelle Luciano
+- Fabio Macciardi
+- Andre F. Marquand
+- Samuel R. Mathias
+- Tracy R. Melzer
+- Yuri Milaneschi
+- Nazanin Mirza-Schreiber
+- Jose C. V. Moreira
+- Thomas W. Mühleisen
+- Bertram Müller-Myhsok
+- Pablo Najt
+- Soichiro Nakahara
+- Kwangsik Nho
+- Loes M. Olde Loohuis
+- Dimitri Papadopoulos Orfanos
+- John F. Pearson
+- Toni L. Pitcher
+- Benno Pütz
+- Yann Quidé
+- Anjanibhargavi Ragothaman
+- Faisal M. Rashid
+- William R. Reay
+- Ronny Redlich
+- Céline S. Reinbold
+- Jonathan Repple
+- Geneviève Richard
+- Brandalyn C. Riedel
+- Shannon L. Risacher
+- Cristiane S. Rocha
+- Nina Roth Mota
+- Lauren Salminen
+- Arvin Saremi
+- Andrew J. Saykin
+- Fenja Schlag
+- Lianne Schmaal
+- Peter R. Schofield
+- Rodrigo Secolin
+- Chin Yang Shapland
+- Li Shen
+- Jean Shin
+- Elena Shumskaya
+- Ida E. Sønderby
+- Emma Sprooten
+- Katherine E. Tansey
+- Alexander Teumer
+- Anbupalam Thalamuthu
+- Diana Tordesillas-Gutiérrez
+- Jessica A. Turner
+- Anne Uhlmann
+- Costanza Ludovica Vallerga
+- Dennis van der Meer
+- Marjolein M. J. van Donkelaar
+- Liza van Eijk
+- Theo G. M. van Erp
+- Neeltje E. M. van Haren
+- Daan van Rooij
+- Marie-José van Tol
+- Jan H. Veldink
+- Ellen Verhoef
+- Esther Walton
+- Mingyuan Wang
+- Yunpeng Wang
+- Joanna M. Wardlaw
+- Wei Wen
+- Lars T. Westlye
+- Christopher D. Whelan
+- Stephanie H. Witt
+- Katharina Wittfeld
+- Christiane Wolf
+- Thomas Wolfers
+- Jing Qin Wu
+- Clarissa L. Yasuda
+- Dario Zaremba
+- Zuo Zhang
+- Marcel P. Zwiers
+- Eric Artiges
+- Amelia A. Assareh
+- Rosa Ayesa-Arriola
+- Aysenil Belger
+- Christine L. Brandt
+- Gregory G. Brown
+- Sven Cichon
+- Joanne E. Curran
+- Gareth E. Davies
+- Franziska Degenhardt
+- Michelle F. Dennis
+- Bruno Dietsche
+- Srdjan Djurovic
+- Colin P. Doherty
+- Ryan Espiritu
+- Daniel Garijo
+- Yolanda Gil
+- Penny A. Gowland
+- Robert C. Green
+- Alexander N. Häusler
+- Walter Heindel
+- Beng-Choon Ho
+- Wolfgang U. Hoffmann
+- Florian Holsboer
+- Georg Homuth
+- Norbert Hosten
+- Clifford R. Jack
+- MiHyun Jang
+- Andreas Jansen
+- Nathan A. Kimbrel
+- Knut Kolsk ̊ar
+- Sanne Koops
+- Axel Krug
+- Kelvin O. Lim
+- Jurjen J. Luykx
+- Daniel H. Mathalon
+- Karen A. Mather
+- Venkata S. Mattay
+- Sarah Matthews
+- Jaqueline Mayoral Van Son
+- Sarah C. McEwen
+- Ingrid Melle
+- Derek W. Morris
+- Bryon A. Mueller
+- Matthias Nauck
+- Jan E. Nordvik
+- Markus M. Nöthen
+- Daniel S. O\textquoterightLeary
+- Nils Opel
+- Marie-Laure Paillère Martinot
+- G. Bruce Pike
+- Adrian Preda
+- Erin B. Quinlan
+- Paul E. Rasser
+- Varun Ratnakar
+- Simone Reppermund
+- Vidar M. Steen
+- Paul A. Tooney
+- Fábio R. Torres
+- Dick J. Veltman
+- James T. Voyvodic
+- Robert Whelan
+- Tonya White
+- Hidenaga Yamamori
+- Hieab H. H. Adams
+- Joshua C. Bis
+- Stephanie Debette
+- Charles Decarli
+- Myriam Fornage
+- Vilmundur Gudnason
+- Edith Hofer
+- M. Arfan Ikram
+- Lenore Launer
+- W. T. Longstreth
+- Oscar L. Lopez
+- Bernard Mazoyer
+- Thomas H. Mosley
+- Gennady V. Roshchupkin
+- Claudia L. Satizabal
+- Reinhold Schmidt
+- Sudha Seshadri
+- Qiong Yang
+- Marina K. M. Alvim
+- David Ames
+- Tim J. Anderson
+- Ole A. Andreassen
+- Alejandro Arias-Vasquez
+- Mark E. Bastin
+- Bernhard T. Baune
+- Jean C. Beckham
+- John Blangero
+- Dorret I. Boomsma
+- Henry Brodaty
+- Han G. Brunner
+- Randy L. Buckner
+- Jan K. Buitelaar
+- Juan R. Bustillo
+- Wiepke Cahn
+- Murray J. Cairns
+- Vince Calhoun
+- Vaughan J. Carr
+- Xavier Caseras
+- Svenja Caspers
+- Gianpiero L. Cavalleri
+- Fernando Cendes
+- Aiden Corvin
+- Benedicto Crespo-Facorro
+- John C. Dalrymple-Alford
+- Udo Dannlowski
+- Eco J. C. de Geus
+- Ian J. Deary
+- Norman Delanty
+- Chantal Depondt
+- Sylvane Desrivières
+- Gary Donohoe
+- Thomas Espeseth
+- Guillén Fernández
+- Simon E. Fisher
+- Herta Flor
+- Andreas J. Forstner
+- Clyde Francks
+- Barbara Franke
+- David C. Glahn
+- Randy L. Gollub
+- Hans J. Grabe
+- Oliver Gruber
+- Asta K. H\åberg
+- Ahmad R. Hariri
+- Catharina A. Hartman
+- Ryota Hashimoto
+- Andreas Heinz
+- Frans A. Henskens
+- Manon H. J. Hillegers
+- Pieter J. Hoekstra
+- Avram J. Holmes
+- L. Elliot Hong
+- William D. Hopkins
+- Hilleke E. Hulshoff Pol
+- Terry L. Jernigan
+- Erik G. Jönsson
+- René S. Kahn
+- Martin A. Kennedy
+- Tilo T. J. Kircher
+- Peter Kochunov
+- John B. J. Kwok
+- Stephanie Le Hellard
+- Carmel M. Loughland
+- Nicholas G. Martin
+- Jean-Luc Martinot
+- Colm McDonald
+- Katie L. McMahon
+- Andreas Meyer-Lindenberg
+- Patricia T. Michie
+- Rajendra A. Morey
+- Bryan Mowry
+- Lars Nyberg
+- Jaap Oosterlaan
+- Roel A. Ophoff
+- Christos Pantelis
+- Tomas Paus
+- Zdenka Pausova
+- Brenda W. J. H. Penninx
+- Tinca J. C. Polderman
+- Danielle Posthuma
+- Marcella Rietschel
+- Joshua L. Roffman
+- Laura M. Rowland
+- Perminder S. Sachdev
+- Philipp G. Sämann
+- Ulrich Schall
+- Gunter Schumann
+- Rodney J. Scott
+- Kang Sim
+- Sanjay M. Sisodiya
+- Jordan W. Smoller
+- Iris E. Sommer
+- Beate St Pourcain
+- Dan J. Stein
+- Arthur W. Toga
+- Julian N. Trollor
+- Nic J. A. Van der Wee
+- Dennis van \textquoterightt Ent
+- Henry Völzke
+- Henrik Walter
+- Bernd Weber
+- Daniel R. Weinberger
+- Margaret J. Wright
+- Juan Zhou
+- Jason L. Stein
+- Paul M. Thompson
+- Sarah E. Medland
+tags: []
+categories: []
+date: '2020-01-01'
+lastmod: 2022-05-09T16:41:18-07:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-05-09T23:41:18.347649Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Science*'
+doi: 10.1126/science.aay6690
+links:
+- name: URL
+  url: https://science.sciencemag.org/content/367/6484/eaay6690
+---
