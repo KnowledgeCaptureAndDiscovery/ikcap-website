@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   KnowledgeCapture And Discovery
 
-hero_media: welcome.jpg
+hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
