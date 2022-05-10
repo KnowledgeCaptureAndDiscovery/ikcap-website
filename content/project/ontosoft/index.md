@@ -41,3 +41,7 @@ slides: ""
 ---
 
 The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube Initiative aims to enable scientists to solve challenging problems that span diverse geoscience domains. This requires not only data sharing, it requires new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge sharing about the software developed for geosciences. 
+
+## Links
+
+- [Website](https://ontosoft.isi.edu/)

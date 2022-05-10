@@ -43,3 +43,6 @@ slides: ""
 ## Link
 
 - [Website](https://mint.isi.edu)
+- [Dev Website](https://dev.mint.isi.edu)
+- [GitHub organization](https://github.com/mintproject)
+- [Documentation](https://mintproject.readthedocs.io/en/latest/)

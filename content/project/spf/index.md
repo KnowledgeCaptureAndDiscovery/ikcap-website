@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+## Links 
+
+- [Website](https://www.scientificpaperofthefuture.org/gpf/)

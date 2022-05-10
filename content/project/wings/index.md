@@ -49,3 +49,8 @@ WINGS is a semantic workflow system that assists scientists with the design of c
 - [Website](#)
 - [User Guide](#)
 - [Developer Guide](#)
+- [Repo](https://github.com/KnowledgeCaptureAndDiscovery/wings)
+
+- [Data4Science Instances](http://datascience4all.org/wings-portal-new/)
+- [OMICS](https://www.wings-workflows.org/wings-omics-portal/)
+- [Enigma](https://enigma-disk.wings.isi.edu/wings-portal/login)

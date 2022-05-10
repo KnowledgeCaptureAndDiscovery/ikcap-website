@@ -39,4 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-We are investigating a novel approach to data publishing that is organic in its organization, requires minimal effort from the contributor, has parsimonious design, and is accessible to all scientists as well as other potential contributors. We offer a minimal pre-defined structure, and allow contributors to describe their data by easily defining their own metadata properties to suit their particular datasets, and to reuse common available vocabularies when it is convenient. The normalization of metadata will be organic, as other scientists aggregate datasets in the repository and find the need to aggregate them. 
+We are investigating a novel approach to data publishing that is organic in its organization, requires minimal effort from the contributor, has parsimonious design, and is accessible to all scientists as well as other potential contributors. We offer a minimal pre-defined structure, and allow contributors to describe their data by easily defining their own metadata properties to suit their particular datasets, and to reuse common available vocabularies when it is convenient. The normalization of metadata will be organic, as other scientists aggregate datasets in the repository and find the need to aggregate them.
+
+## Links
+
+- [Website](https://www.organicdatacuration.org/)
