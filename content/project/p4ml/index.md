@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "P4ml"
-summary: ""
+summary: "A Phased Performance-Based Pipeline Planner for Automated Machine Learning"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+First release of the P4ML system (ISI TA2). The system supports:
+
+    Generation of pipelines by using the D3M primitive catalog
+    Automated dataset featurization and profiling to create appropriate pipelines
+    Automated hyperparameter tuning of pipelines
+    Ensembling of best results.
+    Multiprocessing
+    Generation of best solution within a time budget.
+
+Source code repository: https://github.com/usc-isi-i2/dsbox-ta2

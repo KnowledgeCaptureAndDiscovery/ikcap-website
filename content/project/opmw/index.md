@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Opmw"
-summary: ""
+title: "OPMW-PROV: The Open Provenance Model for Workflows"
+summary: "Tracking the provenance of scientific experiments and their executions"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+OPMW is an ontology for describing workflows based on the Open Provenance Model. It has been designed as a profile for OPM, extending and reusing OPM's core ontologies OPMV (OPM-Vocabulary) and OPMO (OPM-Ontology). Since the publication of the PROV-O standard, the ontology also extends the W3C recommendation.

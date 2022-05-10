@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mint"
+title: "MINT"
 summary: "Model Integration through Knowledge-Rich Data and Process Composition"
 authors: []
 tags: []

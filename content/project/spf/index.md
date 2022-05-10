@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Spf"
-summary: ""
+title: "The Scientific Paper of the Future Initiative"
+summary: "In the near future, scientists will routinely use new tools to develop research papers that will document all the associated digital objects (data, software, workflows, etc.). This will make science more open, promote fair credit of scientific contributions, and facilitate reproducibility. "
 authors: []
 tags: []
 categories: []
 date: 2022-05-09T16:21:54-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://scientificpaperofthefuture.org/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
