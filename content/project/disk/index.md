@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Disk"
-summary: ""
+summary: "Automating hypothesis-driven discovery in different scientific domains"
 authors: []
 tags: []
 categories: []

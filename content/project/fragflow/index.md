@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Fragflow"
-summary: ""
+summary: "Finding common fragments in scientific workflows"
 authors: []
 tags: []
 categories: []
