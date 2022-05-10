@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | KnowledgeCapture And Discovery</title><link>https://example.com/project/</link><atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 16:21:55 -0700</lastBuildDate><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://example.com/project/</link></image><item><title>Wings</title><link>https://example.com/project/wings/</link><pubDate>Mon, 09 May 2022 16:21:55 -0700</pubDate><guid>https://example.com/project/wings/</guid><description>&lt;p>WINGS is a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources.&lt;/p>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#">Website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">User Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">Developer Guide&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>autoTS</title><link>https://example.com/project/autots/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/autots/</guid><description>&lt;p>autoTS is an automated system for time series analysis that uses semnatic workflows to represent sophisticated methods and their constraints. AutoTs extends the &lt;a href="https://www.wings-workflows.org" target="_blank" rel="noopener">WINGS workflow system&lt;/a> with new capbilities to cutomize general methods to specific datasets based on key characteristics of the data.&lt;/p>
+&lt;p>The methods are encapsulated in the &lt;a href="http://linkedearth.github.io/Pyleoclim_util/" target="_blank" rel="noopener">Pyleoclim package&lt;/a>&lt;/p>
+&lt;p>This repository contains the following:&lt;/p>
+&lt;ul>
+&lt;li>Notebooks the describe a certain methodology and workflow strategies&lt;/li>
+&lt;li>Sample data with know characteristics (e.g. periodicity, noise, amount of missing data) to test the methods and workflow strategies.&lt;/li>
+&lt;li>Code to automatically profile data (e.g. trend)&lt;/li>
+&lt;/ul>
+&lt;h2 id="further-information">Further information&lt;/h2>
+&lt;p>Fore more information about the project, visit our website.&lt;/p>
+&lt;h2 id="contact">Contact&lt;/h2>
+&lt;p>Please report issues to &lt;a href="mailto:khider@usc.edu">khider@usc.edu&lt;/a>&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>The material on this repository is licensed under the Apache 2.0 License.&lt;/p>
+&lt;h2 id="disclaimer">Disclaimer&lt;/h2>
+&lt;p>This research is funded by JP Morgan Chase &amp;amp; Co. Any views or opinions expressed herein are solely those of the authors listed, and may differ from the views and opinions expressed by JP Morgan Chase &amp;amp; Co. or its affilitates. This material is not a product of the Research Department of J.P. Morgan Securities LLC. This material should not be construed as an individual recommendation of for any particular client and is not intended as a recommendation of particular securities, financial instruments or strategies for a particular client. This material does not constitute a solicitation or offer in any jurisdiction.&lt;/p></description></item><item><title>Linked Earth</title><link>https://example.com/project/linkedearth/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/linkedearth/</guid><description/></item><item><title>Ontosoft</title><link>https://example.com/project/ontosoft/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/ontosoft/</guid><description>&lt;p>The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube Initiative aims to enable scientists to solve challenging problems that span diverse geoscience domains. This requires not only data sharing, it requires new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge sharing about the software developed for geosciences.&lt;/p></description></item><item><title>OPMW-PROV: The Open Provenance Model for Workflows</title><link>https://example.com/project/opmw/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/opmw/</guid><description>&lt;p>OPMW is an ontology for describing workflows based on the Open Provenance Model. It has been designed as a profile for OPM, extending and reusing OPM&amp;rsquo;s core ontologies OPMV (OPM-Vocabulary) and OPMO (OPM-Ontology). Since the publication of the PROV-O standard, the ontology also extends the W3C recommendation.&lt;/p></description></item><item><title>Organic Data Curation</title><link>https://example.com/project/odc/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/odc/</guid><description>&lt;p>We are investigating a novel approach to data publishing that is organic in its organization, requires minimal effort from the contributor, has parsimonious design, and is accessible to all scientists as well as other potential contributors. We offer a minimal pre-defined structure, and allow contributors to describe their data by easily defining their own metadata properties to suit their particular datasets, and to reuse common available vocabularies when it is convenient. The normalization of metadata will be organic, as other scientists aggregate datasets in the repository and find the need to aggregate them.&lt;/p></description></item><item><title>Organic Data Science Framework</title><link>https://example.com/project/ods/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/ods/</guid><description>&lt;p>Over the last hundred years, science has become an increasingly collaborative endeavor. Scientific collaborations, sometimes referred to as â€œcollaboratoriesâ€ and â€œvirtual organizationsâ€, range from those that work closely together and others that are more loosely coordinated. Some scientific collaborations revolve around sharing instruments (e.g., the Large Hadron Collider), others focus on a shared database (e.g., the Sloan Sky Digital Survey), others form around a shared software base (e.g., SciPy), and others around a shared scientific question (e.g., the Human Genome Project).&lt;/p>
+&lt;p>Our work focuses on scientific collaborations that are driven by a shared scientific question that requires the integration of ideas, models, software, data, and other resources from different disciplines. These projects are particularly challenging because they require:&lt;/p>
+&lt;pre>&lt;code>significant organization and coordination, as people with diverse backgrounds are supposed to first discover one another and then find common ground to collaborate
+retaining users over the long term, since people need clear incentives to remain involved for the long period of time that such projects are active
+incrementally growing the community with unanticipated participants, as they bring in skills or resources needed as the project is fleshed out
+&lt;/code>&lt;/pre>
+&lt;p>For all these reasons, even though such scientific collaborations do occur they are not very common. Yet, they are needed in order to address major engineering and science challenges in our future.&lt;/p>
+&lt;p>This project is developing the Organic Data Science Framework (ODSF) to support scientific collaborations that revolve around complex science questions that require significant coordination to synthesize multi-disciplinary findings, enticing contributors to remain engaged for extended periods of time, and continuous growth to accommodate new contributors as needed as the work evolves over time.&lt;/p>
+&lt;p>ODSF addresses these challenges with a collaborative user interface that supports:&lt;/p>
+&lt;pre>&lt;code>self-organization of the community through user-driven dynamic task decomposition,
+on-line community support by incorporating social design principles and best practices,
+an open science process by capturing new kinds of metadata about the collaboration that provide invaluable context to newcomers.
+&lt;/code>&lt;/pre>
+&lt;p>With ODSF, users formulate science tasks to describe the what, who, when, and how of the smaller activities pursued within the collaboration. The interface is designed to entice contributors to participate and continue involved in the specific tasks they are interested in. The framework is in its early stages of development, and it evolves to accommodate user feedback and to incorporate new collaboration features.&lt;/p></description></item><item><title>P4ml</title><link>https://example.com/project/p4ml/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/p4ml/</guid><description>&lt;p>First release of the P4ML system (ISI TA2). The system supports:&lt;/p>
+&lt;pre>&lt;code>Generation of pipelines by using the D3M primitive catalog
+Automated dataset featurization and profiling to create appropriate pipelines
+Automated hyperparameter tuning of pipelines
+Ensembling of best results.
+Multiprocessing
+Generation of best solution within a time budget.
+&lt;/code>&lt;/pre>
+&lt;p>Source code repository: &lt;a href="https://github.com/usc-isi-i2/dsbox-ta2" target="_blank" rel="noopener">https://github.com/usc-isi-i2/dsbox-ta2&lt;/a>&lt;/p></description></item><item><title>The Geoscience Paper of the Future Initiative</title><link>https://example.com/project/gpf/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/gpf/</guid><description>&lt;p>Overview&lt;/p>
+&lt;p>In the near future, scientists will routinely use new tools to develop research papers that will document all the associated digital objects (data, software, workflows, etc.). This will make science more open, promote fair credit of scientific contributions, and facilitate reproducibility.&lt;/p>
+&lt;p>The Geoscience Papers of the Future (GPF) is an initiative to encourage geoscientists to publish papers together with the associated digital products of their research. This means that a paper would include: 1) Documentation of datasets, including descriptions, unique identifiers, and availability in public repositories; 2) Documentation of software, including pre-processing of data and visualization steps, described with metadata and with unique identifiers and pointers to public code repositories; 3) Documentation of the provenance and workflow for each figure or result.&lt;/p>
+&lt;p>The Geoscience Papers of the Future Initiative has two major components:&lt;/p>
+&lt;pre>&lt;code>A Special Section of the AGU Earth and Space Science journal that will highlight GPFs. We have partnered with the largest scientific society in geosciences to create a special issue of their new cross-disciplinary journal to encourage submissions of GPFs that will help move the geosciences community to publish all digital objects resulting from their research.
+A training program that offers training sessions for geoscientists to learn best practices in software and data sharing, provenance documentation, and scholarly publication. These training sessions will be offered in different modalities throughout 2015 (e.g. AGU Fall Meeting, GSA, ESIP, etc.). Training materials will be freely available on line. Training sessions will be offered upon request at other institutions and community events.
+&lt;/code>&lt;/pre>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.scientificpaperofthefuture.org/gpf/" target="_blank" rel="noopener">Website&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>The Scientific Paper of the Future Initiative</title><link>https://example.com/project/spf/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://example.com/project/spf/</guid><description/></item><item><title>Asset</title><link>https://example.com/project/asset/</link><pubDate>Mon, 09 May 2022 16:21:53 -0700</pubDate><guid>https://example.com/project/asset/</guid><description>&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.earthcube.org/group/accelerating-scientific-workflows-using-earthcube-technologies-asset" target="_blank" rel="noopener">Website&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Data Narratives</title><link>https://example.com/project/dana/</link><pubDate>Mon, 09 May 2022 16:21:53 -0700</pubDate><guid>https://example.com/project/dana/</guid><description>&lt;p>DAta NArratives (DANA)&lt;/p>
+&lt;p>Data Narratives are containers of information about computationally generated data.&lt;/p>
+&lt;p>Check out some Data Narratives examples or browse the code on Github.&lt;/p>
+&lt;p>Data narratives have three major components:&lt;/p>
+&lt;p>A record of events, that describe a new result through a workflow and/or provenance of all the computations executed;
+Persistent entries for key entities involved through DOIs for data, software versions, and workflow;
+a narrative account (or several), that is an automatically generated human-consumable rendering of the record and entities and may include visualizations or summaries.&lt;/p>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://knowledgecaptureanddiscovery.github.io/DataNarratives/" target="_blank" rel="noopener">website&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Fragflow</title><link>https://example.com/project/fragflow/</link><pubDate>Mon, 09 May 2022 16:21:53 -0700</pubDate><guid>https://example.com/project/fragflow/</guid><description>&lt;h1 id="fragflow">FragFlow&lt;/h1>
+&lt;p>Project designed for finding internal macro and composite workflow motifs in scientific workflow, defined according to&lt;/p>
+&lt;p>&lt;a href="http://purl.org/net/wf-motifs#InternalMacro" target="_blank" rel="noopener">http://purl.org/net/wf-motifs#InternalMacro&lt;/a> and &lt;a href="http://purl.org/net/wf-motifs#CompositeWorkflow" target="_blank" rel="noopener">http://purl.org/net/wf-motifs#CompositeWorkflow&lt;/a>.&lt;/p>
+&lt;p>The project finds a set of workflow fragments from workflow specifications and/or workflow executions and links
+the results to the corpus. The results are linked according to the Workflow Fragment Description Ontology: &lt;a href="http://purl.org/net/wf-fd" target="_blank" rel="noopener">http://purl.org/net/wf-fd&lt;/a>&lt;/p>
+&lt;p>In order to achieve the results, this project defines diverse operations for graph manipulation and formatting. In particular:&lt;/p>
+&lt;ul>
+&lt;li>Generic readers and writers that can read and write different workflow specifications and traces (currently supported: OPMW, OPM)&lt;/li>
+&lt;li>Inference and abstraction of a workfow collection or individual workflows.&lt;/li>
+&lt;li>Remote querying and adaptation to process RDF workflows exposed as Linked Data.&lt;/li>
+&lt;li>Formatting output to be read by the SUBDUE and PAFI tools.&lt;/li>
+&lt;li>Capability of saving the results as RDF.&lt;/li>
+&lt;li>Computation of statistics on the results obtained, and binding the fragments proposed by the tools to the results.&lt;/li>
+&lt;/ul>
+&lt;p>The project is configured as a Netbeans project right now. All the libraries and dependencies are jar files contained in the /lib folder.&lt;/p>
+&lt;p>Current ongoing work:&lt;/p>
+&lt;ul>
+&lt;li>Adapt the framework to different types of graph mining algorithms. Currently supported: SUBDUE, PAFI, Parsemis (gSpan, Gaston(ongoing))&lt;/li>
+&lt;li>Adapt the framework to read from different types of workflows. Currently supported: OPMW, LONI Pipeline&lt;/li>
+&lt;/ul></description></item><item><title>MINT</title><link>https://example.com/project/mint/</link><pubDate>Mon, 09 May 2022 16:09:50 -0700</pubDate><guid>https://example.com/project/mint/</guid><description>&lt;h2 id="link">Link&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://mint.isi.edu" target="_blank" rel="noopener">Website&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>DISK</title><link>https://example.com/project/disk/</link><pubDate>Mon, 09 May 2022 16:09:29 -0700</pubDate><guid>https://example.com/project/disk/</guid><description>&lt;p>DISK is a novel framework to test and revise hypotheses based on automatic analysis of scientific data repositories that grow over time. Given an input hypothesis, DISK is able to search for appropriate data to test it and revise it accordingly, and does this continuously as new data be-comes available. DISK is also capable of triggering new kinds of analyses when new kinds of data become availa-ble. The provenance of the revised hypotheses is recorded, with all the details of the analyses. We are using DISK with multi-omics data from a seminal cancer study. Ongoing research includes extending DISK to generate interactive explanations for scientists based on provenance records, developing a general approach to the design of meta-workflows, handling more complex hypotheses, and exploring the use of this approach in other areas of science.&lt;/p>
+&lt;p>Links:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.disk-project.org/" target="_blank" rel="noopener">Website&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://disk.readthedocs.io/en/latest/" target="_blank" rel="noopener">User Guide&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://knowledgecaptureanddiscovery.github.io/NeuroDISK/" target="_blank" rel="noopener">NeuroDISK landing page&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://skc.isi.edu/disk-portal/" target="_blank" rel="noopener">NeuroDISK page&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Repositories&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK" target="_blank" rel="noopener">EnigmaDISK&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">New server&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK ui&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
