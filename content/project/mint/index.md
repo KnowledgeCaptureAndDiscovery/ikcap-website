@@ -3,7 +3,7 @@
 
 title: "MINT"
 summary: "Model Integration through Knowledge-Rich Data and Process Composition"
-authors: []
+authors: ["ygil", "varunr", "deborahkhider", "maximiliano-osorio"]
 tags: []
 categories: []
 date: 2022-05-09T16:09:50-07:00

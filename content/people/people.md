@@ -21,7 +21,7 @@ content:
     - Researchers
     - Grad Students
     - Administration
-    - External Contractor
+    - External Contractors
     - Visitors
     - Alumni
 design:
