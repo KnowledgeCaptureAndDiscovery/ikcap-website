@@ -39,3 +39,21 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+DAta NArratives (DANA)
+
+Data Narratives are containers of information about computationally generated data.
+
+Check out some Data Narratives examples or browse the code on Github.
+
+Data narratives have three major components:
+
+A record of events, that describe a new result through a workflow and/or provenance of all the computations executed;
+Persistent entries for key entities involved through DOIs for data, software versions, and workflow;
+a narrative account (or several), that is an automatically generated human-consumable rendering of the record and entities and may include visualizations or summaries.
+
+
+## Links
+
+- [website](https://knowledgecaptureanddiscovery.github.io/DataNarratives/)

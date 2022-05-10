@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Ontosoft"
-summary: ""
+summary: "A software metadata registry to describe scientific software in a user-friendly manner"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube Initiative aims to enable scientists to solve challenging problems that span diverse geoscience domains. This requires not only data sharing, it requires new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge sharing about the software developed for geosciences. 
