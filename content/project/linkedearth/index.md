@@ -7,7 +7,7 @@ authors: ['deborahkhider']
 tags: ['paleoclimate', 'community']
 categories: []
 date: 2022-05-09T16:21:54-07:00
-
+weight: 2
 # Optional external URL for project (replaces project detail page).
 external_link: "http://linked.earth"
 

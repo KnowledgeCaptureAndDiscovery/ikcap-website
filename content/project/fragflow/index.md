@@ -8,6 +8,7 @@ tags: []
 categories: []
 date: 2022-05-09T16:21:53-07:00
 
+weight: 10
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
