@@ -10,7 +10,7 @@
 ## Create a new author
 
 
-1. Go to [content/author](content/author) directory.
+1. Go to [content/authors](content/authors) directory.
 2. Copy a existing author directory and rename it.
 3. Edit the file `index.md`.
 
