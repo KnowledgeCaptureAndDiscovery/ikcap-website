@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Ayomide Ayowole-Obi 
+title:  Victoria Bogomilovich
 
 # Is this the primary user of the site?
 superuser: false
