@@ -24,6 +24,7 @@ content:
     - External Contractors
     - Visitors
     - Alumni
+    - Intern
 design:
   show_interests: false
   show_role: true
