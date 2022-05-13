@@ -47,6 +47,8 @@ Links:
 
 - [Website](https://www.disk-project.org/)
 - [User Guide](https://disk.readthedocs.io/en/latest/)
+- [Main Repository](https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB)
+
 
 - [NeuroDISK landing page](https://knowledgecaptureanddiscovery.github.io/NeuroDISK/)
 - [NeuroDISK page](http://skc.isi.edu/disk-portal/) 
@@ -54,6 +56,6 @@ Links:
 Repositories
 
  - [EnigmaDISK](https://github.com/KnowledgeCaptureAndDiscovery/DISK)
- - [New server](https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB) 
- - [DISK ui](https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI)
+ - [DISK general](https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB) 
+ - [DISK UI](https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI)
 
