@@ -14,6 +14,9 @@
 &lt;p>&lt;a href="https://disk.readthedocs.io/en/latest/" target="_blank" rel="noopener">User Guide&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
+&lt;p>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">Main Repository&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;a href="https://knowledgecaptureanddiscovery.github.io/NeuroDISK/" target="_blank" rel="noopener">NeuroDISK landing page&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
@@ -23,8 +26,8 @@
 &lt;p>Repositories&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK" target="_blank" rel="noopener">EnigmaDISK&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">New server&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK ui&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">DISK general&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK UI&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Linked Earth</title><link>https://knowledgecaptureanddiscovery.github.io/ikcap-website/project/linkedearth/</link><pubDate>Mon, 09 May 2022 16:21:54 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/ikcap-website/project/linkedearth/</guid><description/></item><item><title>Wings</title><link>https://knowledgecaptureanddiscovery.github.io/ikcap-website/project/wings/</link><pubDate>Mon, 09 May 2022 16:21:55 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/ikcap-website/project/wings/</guid><description>&lt;p>WINGS is a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources.&lt;/p>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
