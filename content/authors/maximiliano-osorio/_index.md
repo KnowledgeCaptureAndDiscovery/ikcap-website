@@ -6,7 +6,7 @@ title: Maximiliano Osorio
 superuser: false
 
 # Role/position
-role: External Contractor
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -42,7 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - External Contractors
+  - Research Engineers
 ---
 
 I'm a software engineer who is passionate about making AI researchers possible, creating technologies to integrate information and models across disciplines.

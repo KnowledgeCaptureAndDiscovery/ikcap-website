@@ -21,7 +21,7 @@ content:
     - Researchers
     - Grad Students
     - Administration
-    - External Contractors
+    - Research Engineers
     - Visitors
     - Alumni
     - Interns

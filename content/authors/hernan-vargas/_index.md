@@ -6,7 +6,7 @@ title: Hernan Vargas
 superuser: false
 
 # Role/position
-role: External Contractor
+role: Research Engineer
 
 # Organizations/Affiliations
 #organizations:
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - External Contractors
+  - Research Engineers
 ---
 
-Hernan Vargas is a external contractor for USC's Information Science Institute.
+Hernan Vargas
