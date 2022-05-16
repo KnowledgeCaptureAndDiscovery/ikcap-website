@@ -19,12 +19,6 @@ bio: My research interests include knowledge representation, scientific workflow
 interests:
   - Artificial Intelligence
 
-education:
-  courses:
-    - course: MS in Computer Networks
-      institution: University of Southern California
-      year: 2001
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -32,7 +26,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:varunr@isi.edu'
+    link: 'mailto:maxiosorio@gmail.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,4 +45,12 @@ user_groups:
   - External Contractors
 ---
 
-Varun Ratnakar is director of Karya Limited, which provides services in AI research and development to USC's Information Sciences Instute.
+I'm a software engineer who is passionate about making AI researchers possible, creating technologies to integrate information and models across disciplines.
+
+I enjoy:
+
+- Designing architecture and implementing backend services using different languages (Go, Python, Nodejs, or Java).
+- Deploying applications using Docker/Kubernetes or configuration management (Ansible).
+- And creating good software for the community heart.
+
+I recently started to learn about Designing Event-Driven Systems and creating pages using GraphQL and ReactJS.

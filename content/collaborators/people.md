@@ -9,23 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
-subtitle: Our [collaborators](../collaborators)
+title: Meet our collaborators
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Director
-    - Researchers
-    - Grad Students
-    - Administration
-    - External Contractors
-    - Visitors
-    - Alumni
-    - Interns
-    #- Collaborator
+    - Collaborator
 design:
   show_interests: false
   show_role: true
