@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Victoria Bogomilovich
+title:  Victoria Bogomilova
 
 # Is this the primary user of the site?
 superuser: false
