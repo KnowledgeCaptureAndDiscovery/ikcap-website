@@ -25,7 +25,7 @@ content:
     - Visitors
     - Alumni
     - Interns
-    - Previous Intern
+    - Previous Interns
     #- Collaborator
 design:
   show_interests: false
