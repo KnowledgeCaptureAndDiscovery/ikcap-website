@@ -19,5 +19,4 @@ She worked for two years, participating in two different projects. For her first
 IPython notebooks into Wings workflow, specifically converting outdated IPython notebooks used by geologists. 
 In her second year she participated in developing Neuro-DISK, a program continually updating neuroscience data for the 
 accessibility of the neuroscience research community, by coding a program to check wikis, analyze new data, and email 
-researchers when certain data has been updated daily. She is currently a senior in computer science at the University of 
-California - Los Angeles. 
+researchers when certain data has been updated daily. She graduated University of California - Los Angeles with a major in computer science in June 2022, and is currently working as a software engineer for Databricks.
