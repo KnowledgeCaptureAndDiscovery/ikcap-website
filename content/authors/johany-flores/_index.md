@@ -6,8 +6,8 @@ title:  Johany Flores
 superuser: false
 
 # Role/position
-role: Intern
+role: Previous Intern
 
 user_groups:
-  - Interns
+  - Previous Interns
 ---
