@@ -6,8 +6,8 @@ title:  Cheryl Ting
 superuser: false
 
 # Role/position
-role: Intern
+role: Previous Intern
 
 user_groups:
-  - Interns
+  - Previous Intern
 ---
