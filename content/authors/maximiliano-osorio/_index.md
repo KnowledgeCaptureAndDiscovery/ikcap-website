@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maximiliano Osorio 
+title: Maximiliano Osorio
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,11 +10,11 @@ role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: Mosorio E.I.R.L
-    url: ''
+  - name: MetaLearn SPA
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include knowledge representation, scientific workflows.
+bio: I'm a software engineer who is passionate about making AI researchers possible, creating technologies to integrate information and models across disciplines.
 
 interests:
   - Artificial Intelligence
@@ -26,7 +26,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:maxiosorio@gmail.com'
+    link: "mailto:maxiosorio@gmail.com"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -34,7 +34,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'maxiosorio@gmail.com'
+email: "maxiosorio@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

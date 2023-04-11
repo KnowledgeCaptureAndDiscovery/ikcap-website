@@ -11,10 +11,10 @@ role: Research Engineer
 # Organizations/Affiliations
 organizations:
   - name: Karya Limited
-    url: ''
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include knowledge representation, scientific workflows.
+bio: Varun Ratnakar is director of Karya Limited, which provides services in AI research and development to USC's Information Sciences Instute.
 
 interests:
   - Artificial Intelligence
@@ -32,7 +32,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:varunr@isi.edu'
+    link: "mailto:varunr@isi.edu"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -40,7 +40,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'varunratnakar@gmail.com'
+email: "varunratnakar@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
