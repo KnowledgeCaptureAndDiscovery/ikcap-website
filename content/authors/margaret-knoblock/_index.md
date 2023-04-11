@@ -20,6 +20,6 @@ code for better user experience. Knoblock graduated in 2020 from Bucknell Univer
 computer science. Margaret’s work at ISI helped her recognize her interest in web development, and she continues to work 
 directly in web development at ViaStat as a software engineer.
 
-<video style="width: auto; height: auto; max-width: calc(-100px + 100vw); max-height: calc(-200px + 100vh);">
+<video style="width: auto; height: auto;">
   <source src="https://s3.mint.isi.edu/public/videos/margaret%20knoblock.mp4" type="video/mp4">
 </video>

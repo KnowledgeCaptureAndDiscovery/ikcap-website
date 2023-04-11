@@ -21,6 +21,6 @@ In her second year she participated in developing Neuro-DISK, a program continua
 accessibility of the neuroscience research community, by coding a program to check wikis, analyze new data, and email 
 researchers when certain data has been updated daily. She graduated University of California - Los Angeles with a major in computer science in June 2022, and is currently working as a software engineer for Databricks.
 
-<video style="width: auto; height: auto; max-width: calc(-100px + 100vw); max-height: calc(-200px + 100vh);">
+<video style="width: auto; height: auto;">
   <source src="https://s3.mint.isi.edu/public/videos/regina%20wang.mp4" type="video/mp4">
 </video>

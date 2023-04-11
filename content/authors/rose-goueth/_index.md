@@ -19,6 +19,6 @@ This was her first research position, and through that experience she found an i
 Now, she continues to use skills she learned during her time at ISI as she pursues her interest in informatics with her own research as a fourth year medical informatics and clinical epidemiology PhD at Oregon Health and Sciences University.
 Her dissertation focuses on applying and informing sexual health knowledge to young people making decisions regarding contraceptives. 
 
-<video style="width: auto; height: auto; max-width: calc(-100px + 100vw); max-height: calc(-200px + 100vh);">
+<video style="width: auto; height: auto;">
   <source src="https://s3.mint.isi.edu/public/videos/rose%20goueth.mp4" type="video/mp4">
 </video>
