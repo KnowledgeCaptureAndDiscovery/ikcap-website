@@ -21,3 +21,7 @@ while working with the ENIGMA team for mentoring and helping with proceeding upd
 a program that helps individuals comb through vast amounts of public data for information specifically relevant to their 
 purpose. She graduated from the University of Maryland with a degree in computer science and currently works at Smartcar as 
 a software engineer. 
+
+<video style="width: auto; height: auto; max-width: calc(-100px + 100vw); max-height: calc(-200px + 100vh);">
+  <source src="https://s3.mint.isi.edu/public/videos/naomi%20perez.mp4" type="video/mp4">
+</video>

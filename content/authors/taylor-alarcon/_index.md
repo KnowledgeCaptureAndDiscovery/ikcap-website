@@ -20,3 +20,7 @@ Taylor specifically worked on building workflows for image segmentation, open CV
 After his research experience at ISI, he decided to explore finance in his following undergraduate summers. 
 Upon graduating from Brown University with a degree in Applied Mathematics, he started working for Adobe in project management and software development. 
 He is now working at Instagram and applying to graduate school programs to pursue his own research in technological and social problems surrounding data science. 
+
+<video style="width: auto; height: auto; max-width: calc(-100px + 100vw); max-height: calc(-200px + 100vh);">
+  <source src="https://s3.mint.isi.edu/public/videos/taylor%20alarcon.mp4" type="video/mp4">
+</video>

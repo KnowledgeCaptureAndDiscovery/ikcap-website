@@ -21,3 +21,7 @@ She worked with Protege and created course materials for teaching data science t
 Deng graduated from Carnegie Mellon University with a Bachelor’s in Decision Science with a passion in user experience. 
 Using her interest in user experience and data science, she is now creating a startup where children can connect with 
 artists and learn about animation and digital storytelling. 
+
+<video style="width: auto; height: auto; max-width: calc(-100px + 100vw); max-height: calc(-200px + 100vh);">
+  <source src="https://s3.mint.isi.edu/public/videos/alyssa%20deng%20revised.mp4" type="video/mp4">
+</video>

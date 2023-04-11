@@ -19,3 +19,7 @@ and digest code with the task of improving internal repositories for scientific 
 code for better user experience. Knoblock graduated in 2020 from Bucknell University in Pennsylvania with a degree in 
 computer science. Margaret’s work at ISI helped her recognize her interest in web development, and she continues to work 
 directly in web development at ViaStat as a software engineer.
+
+<video style="width: auto; height: auto; max-width: calc(-100px + 100vw); max-height: calc(-200px + 100vh);">
+  <source src="https://s3.mint.isi.edu/public/videos/margaret%20knoblock.mp4" type="video/mp4">
+</video>

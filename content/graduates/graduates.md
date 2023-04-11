@@ -17,6 +17,7 @@ content:
   user_groups:
     - Grad Students
     - Previous Interns
+    - Previous Intern
     #- Collaborator
 design:
   show_interests: false
