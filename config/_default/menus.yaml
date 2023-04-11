@@ -21,7 +21,7 @@ main:
     weight: 40
   - name: Recent graduates
     url: graduates
-    weight: 41
+    weight: 39
   - name: Publications
     url: publication
     weight: 50
