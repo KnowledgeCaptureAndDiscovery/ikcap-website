@@ -1,8 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Pegasus: Mapping Scientific Workflows onto the Grid'
-date: '2004-01-01'
-draft: true
-publishDate: '2023-04-12T14:15:12.580316Z'
+subtitle: ''
+summary: ''
 authors:
 - Ewa Deelman
 - James Blythe
@@ -13,10 +14,30 @@ authors:
 - Mei-Hui Su
 - Karan Vahi
 - Miron Livny
+tags: []
+categories: []
+date: '2004-01-01'
+lastmod: 2023-04-12T10:27:11-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-04-12T14:27:11.089789Z'
 publication_types:
 - '1'
 abstract: ''
-featured: false
 publication: '*Proceedings of the Second European Across Grids Conference (AxGrids)*'
 ---
-
