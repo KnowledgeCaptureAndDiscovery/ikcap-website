@@ -1,10 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Artificial Intelligence for Modeling Complex Systems: Taming the Complexity
   of Expert Models to Improve Decision Making'
-subtitle: ''
-summary: ''
+date: '2021-01-01'
+draft: true
+publishDate: '2023-04-12T14:15:07.475236Z'
 authors:
 - Yolanda Gil
 - Daniel Garijo
@@ -41,31 +40,11 @@ authors:
 - Zeya Zhang
 - Christopher Duffy
 - Lele Shu
-tags: []
-categories: []
-date: '2021-01-01'
-lastmod: 2022-05-09T16:41:17-07:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-05-09T23:41:17.806590Z'
 publication_types:
 - '2'
 abstract: ''
+featured: false
 publication: '*ACM Transactions on Interactive Intelligent Systems (TiiS)*'
 url_pdf: http://www.isi.edu/~gil/papers/gil-etal-tiis2021.pdf
 ---
+

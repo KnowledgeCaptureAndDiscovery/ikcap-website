@@ -1,39 +1,17 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'The Provenance Bee Wiki: Tracking the Growth of Semantic Wiki Communities'
-subtitle: ''
-summary: ''
+date: '2015-01-01'
+draft: true
+publishDate: '2023-04-12T14:15:08.868356Z'
 authors:
 - Yolanda Gil
 - Dipsy Kapoor
 - Reed Markham
 - Varun Ratnakar
-tags: []
-categories: []
-date: '2015-01-01'
-lastmod: 2022-05-09T16:41:37-07:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-05-09T23:41:37.800609Z'
 publication_types:
 - '1'
 abstract: ''
+featured: false
 publication: '*Proceedings of the Eighth ACM International Conference on Knowledge
   Capture*'
 doi: 10.1145/2815833.2815847
@@ -41,3 +19,4 @@ links:
 - name: URL
   url: 'http://www.isi.edu/~gil/papers/gil-etal-kcap15.pdf '
 ---
+

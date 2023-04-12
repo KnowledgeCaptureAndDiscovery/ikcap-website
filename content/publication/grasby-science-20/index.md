@@ -1,9 +1,8 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: The genetic architecture of the human cerebral cortex
-subtitle: ''
-summary: ''
+date: '2020-01-01'
+draft: true
+publishDate: '2023-04-12T14:15:07.582854Z'
 authors:
 - Katrina L. Grasby
 - Neda Jahanshad
@@ -365,34 +364,14 @@ authors:
 - Jason L. Stein
 - Paul M. Thompson
 - Sarah E. Medland
-tags: []
-categories: []
-date: '2020-01-01'
-lastmod: 2022-05-09T16:41:18-07:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-05-09T23:41:18.347649Z'
 publication_types:
 - '2'
 abstract: ''
+featured: false
 publication: '*Science*'
 doi: 10.1126/science.aay6690
 links:
 - name: URL
   url: https://science.sciencemag.org/content/367/6484/eaay6690
 ---
+
