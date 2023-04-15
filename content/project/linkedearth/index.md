@@ -3,14 +3,13 @@
 
 title: "Linked Earth"
 summary: "LinkedEarth is a community of paleoscientists working to develop standards and software to enable paleoscience in the era of Big Data. This community produces data products and standards, software, cyberinfrastructure, and training opportunities."
-authors: ['deborahkhider']
-tags: ['paleoclimate', 'community']
+authors: ["deborah-khider"]
+tags: ["paleoclimate", "community", "Featured"]
 categories: []
 date: 2022-05-09T16:21:54-07:00
 weight: 2
 # Optional external URL for project (replaces project detail page).
 external_link: "http://linked.earth"
-
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

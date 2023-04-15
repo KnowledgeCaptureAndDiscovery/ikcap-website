@@ -4,7 +4,7 @@
 title: "Wings"
 summary: "A semantic workflow system that assists scientists with the design of computational experiments"
 authors: []
-tags: []
+tags: ["Featured"]
 categories: []
 date: 2022-05-09T16:21:55-07:00
 
@@ -41,9 +41,7 @@ url_video: ""
 slides: ""
 ---
 
-
 WINGS is a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources.
-
 
 ## Links
 
