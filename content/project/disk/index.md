@@ -3,7 +3,15 @@
 
 title: "DISK"
 summary: "Automating hypothesis-driven discovery in different scientific domains"
-authors: []
+authors:
+  [
+    "varunr",
+    "yolanda-gil",
+    "daniel-garijo",
+    "hernan-vargas",
+    "deborah-khider",
+    "maximiliano-osorio",
+  ]
 tags: ["Featured"]
 categories: []
 date: 2022-05-09T16:09:29-07:00

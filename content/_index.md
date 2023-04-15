@@ -100,6 +100,21 @@ sections:
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: people_v1
+    Title: Meet the team
+    Params:
+      subtitle: Our [collaborators](../collaborators)
+      content:
+        user_groups:
+          - Principal Investigators
+          - Researchers
+          - Administration
+          - Research Engineers
+          - Visitors
+      design:
+        show_interests: false
+        show_role: true
+        show_social: true
 ---
 
 ---

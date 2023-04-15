@@ -3,7 +3,15 @@
 
 title: "Wings"
 summary: "A semantic workflow system that assists scientists with the design of computational experiments"
-authors: []
+authors:
+  [
+    "varunr",
+    "yolanda-gil",
+    "daniel-garijo",
+    "hernan-vargas",
+    "deborah-khider",
+    "maximiliano-osorio",
+  ]
 tags: ["Featured"]
 categories: []
 date: 2022-05-09T16:21:55-07:00
