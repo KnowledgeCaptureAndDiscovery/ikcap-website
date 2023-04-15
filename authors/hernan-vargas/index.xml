@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hernan Vargas | KnowledgeCapture And Discovery</title><link>https://knowledgecaptureanddiscovery.github.io/authors/hernan-vargas/</link><atom:link href="https://knowledgecaptureanddiscovery.github.io/authors/hernan-vargas/index.xml" rel="self" type="application/rss+xml"/><description>Hernan Vargas</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 16:21:55 -0700</lastBuildDate><image><url>https://knowledgecaptureanddiscovery.github.io/authors/hernan-vargas/avatar_hub94cd039a4cfabddecd90eaba8fd92a3_67615_270x270_fill_q75_lanczos_center.jpg</url><title>Hernan Vargas</title><link>https://knowledgecaptureanddiscovery.github.io/authors/hernan-vargas/</link></image><item><title>DISK</title><link>https://knowledgecaptureanddiscovery.github.io/project/disk/</link><pubDate>Mon, 09 May 2022 16:09:29 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/project/disk/</guid><description>&lt;p>DISK is a novel framework to test and revise hypotheses based on automatic analysis of scientific data repositories that grow over time. Given an input hypothesis, DISK is able to search for appropriate data to test it and revise it accordingly, and does this continuously as new data be-comes available. DISK is also capable of triggering new kinds of analyses when new kinds of data become availa-ble. The provenance of the revised hypotheses is recorded, with all the details of the analyses. We are using DISK with multi-omics data from a seminal cancer study. Ongoing research includes extending DISK to generate interactive explanations for scientists based on provenance records, developing a general approach to the design of meta-workflows, handling more complex hypotheses, and exploring the use of this approach in other areas of science.&lt;/p>
+&lt;p>Links:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.disk-project.org/" target="_blank" rel="noopener">Website&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://disk.readthedocs.io/en/latest/" target="_blank" rel="noopener">User Guide&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">Main Repository&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://knowledgecaptureanddiscovery.github.io/NeuroDISK/" target="_blank" rel="noopener">NeuroDISK landing page&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://skc.isi.edu/disk-portal/" target="_blank" rel="noopener">NeuroDISK page&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Repositories&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK" target="_blank" rel="noopener">EnigmaDISK&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">DISK general&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK UI&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Wings</title><link>https://knowledgecaptureanddiscovery.github.io/project/wings/</link><pubDate>Mon, 09 May 2022 16:21:55 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/project/wings/</guid><description>&lt;p>WINGS is a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources.&lt;/p>
+&lt;h2 id="links">Links&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="#">Website&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#">User Guide&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="#">Developer Guide&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/wings" target="_blank" rel="noopener">Repo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://datascience4all.org/wings-portal-new/" target="_blank" rel="noopener">Data4Science Instances&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.wings-workflows.org/wings-omics-portal/" target="_blank" rel="noopener">OMICS&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://enigma-disk.wings.isi.edu/wings-portal/login" target="_blank" rel="noopener">Enigma&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>An AI Approach to Integrating Climate, Hydrology, and Agriculture Models</title><link>https://knowledgecaptureanddiscovery.github.io/publication/berhanu-etal-siaia-2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/publication/berhanu-etal-siaia-2022/</guid><description/></item></channel></rss>
