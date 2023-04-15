@@ -1,0 +1,128 @@
+{{/* Wowchemy Blocks: Features */}} {{/* Documentation:
+https://wowchemy.com/blocks/ */}} {{/* License:
+https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}} {{/*
+Initialise */}} {{ $page := .wcPage }} {{ $block := .wcBlock }}
+
+<div class="row featurette">
+  {{ with $block.content.title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $block.content.subtitle }}
+    <p>{{ $block.content.subtitle | markdownify | emojify }}</p>
+    {{ end }}
+  </div>
+  {{ end }} {{ with $block.content.text }}
+  <div class="col-md-12">{{ . | emojify | $page.RenderString }}</div>
+  {{ end }} {{ range $block.content.items }} {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }} {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+  {{ $pack_prefix = "fa" }} {{ end }}
+  <div class="col-12 col-sm-4">
+    {{ with .icon }}
+    <div class="featurette-icon">
+      {{- if eq $pack "emoji" -}} {{- . | emojify -}} {{- else if eq $pack
+      "custom" -}} {{- $svg_icon := resources.Get (printf "media/icons/%s.svg"
+      .) -}} {{- if $svg_icon -}}<img
+        src="{{ $svg_icon.RelPermalink }}"
+        alt="{{.}}"
+        class="svg-icon svg-baseline"
+        loading="lazy"
+      />{{- end -}} {{- else -}}
+      <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
+      {{- end -}}
+    </div>
+    {{ end }}
+    <div class="section-subheading">{{ .name | markdownify | emojify }}</div>
+    {{ with .description }}
+    <p>{{ . | markdownify | emojify }}</p>
+    {{ end }}
+  </div>
+  {{ end }}
+  <ul id="hexGrid">
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="#projects1">
+          <img src="images/ii.png" alt="" />
+          <h1>Knowledge Capture</h1>
+          <p>Representing and acquiring knowledge to be used in AI systems</p>
+        </a>
+      </div>
+    </li>
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="interests/workflows.html">
+          <img src="images/workflow.png" alt="" />
+          <h1>Semantic Workflows</h1>
+          <p>
+            Automated reasoning about characteristics of data and steps in
+            computational experiments
+          </p>
+        </a>
+      </div>
+    </li>
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="interests/ontologyTools.html" target="_blank">
+          <img src="images/ontology.png" alt="Ontologies" />
+          <h1>Ontology tools</h1>
+          <p>Collaborative development and sharing of ontologies</p>
+        </a>
+      </div>
+    </li>
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="#projects" target="_blank">
+          <img src="images/discovery.png" alt="" />
+          <h1>Scientific Discovery</h1>
+          <p>Efficient exploration of alternative methods to analyze data</p>
+        </a>
+      </div>
+    </li>
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="#projects" target="_blank">
+          <img src="images/mindmap.png" alt="" />
+          <h1>Task-based collaboration</h1>
+          <p>Collaborations that are driven by a shared scientific question</p>
+        </a>
+      </div>
+    </li>
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="http://opmw.org" target="_blank">
+          <img src="images/provenance.png" alt="" />
+          <h1>Provenance</h1>
+          <p>Capturing the history of scientific research</p>
+        </a>
+      </div>
+    </li>
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="ld" target="_blank">
+          <img src="images/lod.png" alt="LOD" />
+          <h1>Knowledge Networks</h1>
+          <p>Interconnecting scientific knowledge in the Web.</p>
+        </a>
+      </div>
+    </li>
+
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="crowd.html" target="_blank">
+          <img src="images/spf.png" alt="" />
+          <h1>Reproducibility</h1>
+          <p>improving scientific publications</p>
+        </a>
+      </div>
+    </li>
+
+    <li class="hex">
+      <div class="hexIn">
+        <a class="hexLink" href="#projects">
+          <img src="images/ml.png" alt="" />
+          <h1>Machine Learning</h1>
+          <p>Intelligent assistance for data analysis</p>
+        </a>
+      </div>
+    </li>
+  </ul>
+</div>
