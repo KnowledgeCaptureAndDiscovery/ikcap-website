@@ -3,8 +3,16 @@
 
 title: "DISK"
 summary: "Automating hypothesis-driven discovery in different scientific domains"
-authors: []
-tags: []
+authors:
+  [
+    "varunr",
+    "yolanda-gil",
+    "daniel-garijo",
+    "hernan-vargas",
+    "deborah-khider",
+    "maximiliano-osorio",
+  ]
+tags: ["Featured"]
 categories: []
 date: 2022-05-09T16:09:29-07:00
 weight: 1
@@ -41,7 +49,7 @@ url_video: ""
 slides: ""
 ---
 
-DISK is a novel framework to test and revise hypotheses based on automatic analysis of scientific data repositories that grow over time. Given an input hypothesis, DISK is able to search for appropriate data to test it and revise it accordingly, and does this continuously as new data be-comes available. DISK is also capable of triggering new kinds of analyses when new kinds of data become availa-ble. The provenance of the revised hypotheses is recorded, with all the details of the analyses. We are using DISK with multi-omics data from a seminal cancer study. Ongoing research includes extending DISK to generate interactive explanations for scientists based on provenance records, developing a general approach to the design of meta-workflows, handling more complex hypotheses, and exploring the use of this approach in other areas of science. 
+DISK is a novel framework to test and revise hypotheses based on automatic analysis of scientific data repositories that grow over time. Given an input hypothesis, DISK is able to search for appropriate data to test it and revise it accordingly, and does this continuously as new data be-comes available. DISK is also capable of triggering new kinds of analyses when new kinds of data become availa-ble. The provenance of the revised hypotheses is recorded, with all the details of the analyses. We are using DISK with multi-omics data from a seminal cancer study. Ongoing research includes extending DISK to generate interactive explanations for scientists based on provenance records, developing a general approach to the design of meta-workflows, handling more complex hypotheses, and exploring the use of this approach in other areas of science.
 
 Links:
 
@@ -49,13 +57,11 @@ Links:
 - [User Guide](https://disk.readthedocs.io/en/latest/)
 - [Main Repository](https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB)
 
-
 - [NeuroDISK landing page](https://knowledgecaptureanddiscovery.github.io/NeuroDISK/)
-- [NeuroDISK page](http://skc.isi.edu/disk-portal/) 
+- [NeuroDISK page](http://skc.isi.edu/disk-portal/)
 
 Repositories
 
- - [EnigmaDISK](https://github.com/KnowledgeCaptureAndDiscovery/DISK)
- - [DISK general](https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB) 
- - [DISK UI](https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI)
-
+- [EnigmaDISK](https://github.com/KnowledgeCaptureAndDiscovery/DISK)
+- [DISK general](https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB)
+- [DISK UI](https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI)

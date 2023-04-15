@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2001-01-01'
-lastmod: 2022-05-09T16:44:08-07:00
+lastmod: 2023-04-12T10:27:13-04:00
 featured: false
 draft: false
 
@@ -27,8 +27,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["mint"]
-publishDate: '2022-05-09T23:44:05.726850Z'
+projects: []
+publishDate: '2023-04-12T14:27:13.357946Z'
 publication_types:
 - '1'
 abstract: ''
