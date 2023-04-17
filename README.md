@@ -12,6 +12,21 @@
 2. Copy a existing author directory and rename it.
 3. Edit the file `index.md`.
 
+## Create a batch of authors
+
+Sometimes, we need to create a batch of authors.
+
+The script `tools/generate.sh` is used to generate a batch of authors.
+
+```bash
+Usage: tools/generate.sh <type> <input-file> <output-directory>
+Where:
+  type: 'collaborators', 'interns', or 'previous-interns'
+  input-file: Path to the file containing the list of people
+  output-directory: Path to the folder where the content will be generated
+ Example: tools/generate.sh interns tools/interns.txt content/authors
+```
+
 ## How to run on your computer?
 
 1. Install the dependencies. [Documentation](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
