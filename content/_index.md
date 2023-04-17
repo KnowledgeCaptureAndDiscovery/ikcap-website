@@ -11,7 +11,7 @@ sections:
     content:
       image:
         filename: team.png
-      title: KnowledgeCapture And Discovery
+      title: Knowledge Capture And Discovery
       text: We develop Artificial Intelligence (AI) approaches that use knowledge to accelerate and innovate scientific discovery processes that are unnecessarily carried out manually and inefficiently today.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
