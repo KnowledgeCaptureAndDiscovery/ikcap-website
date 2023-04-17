@@ -2,8 +2,9 @@
 
 ## Add new papers
 
-1. Upload a bib file to [papers](papers) directory.
-2. Commit the changes.
+1. Download the citation file in [BibTex](https://en.wikipedia.org/wiki/BibTeX) format
+2. Upload the file into the [papers](papers) directory.
+3. Commit the changes.
 
 ## Create a new project
 
