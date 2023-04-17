@@ -21,7 +21,7 @@ jobs:
           cache: "pip" # caching pip dependencies
       - run: pip install academic
 
-      - run: academic import --bibtex references/*
+      - run: academic import --bibtex papers/*
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
