@@ -14,12 +14,17 @@
 
 ## Create a batch of authors
 
-There three scripts to generate a batch of authors: `generate-collaborator.sh`, `generate-interns.sh` and `generate-previous-interns.sh` and each of them has a corresponding template file: `collaborators.txt`, `interns.txt` and `previous-interns.txt`.
+Sometimes, we need to create a batch of authors.
 
-To create a batch of authors, you need to edit the corresponding template file and then run the corresponding script.
+The script `tools/generate.sh` is used to generate a batch of authors.
 
 ```bash
-$ bash tools/generate-collaborators.sh
+Usage: tools/generate.sh <type> <input-file> <output-directory>
+Where:
+  type: 'collaborators', 'interns', or 'previous-interns'
+  input-file: Path to the file containing the list of people
+  output-directory: Path to the folder where the content will be generated
+ Example: tools/generate.sh interns tools/interns.txt content/authors
 ```
 
 ## How to run on your computer?

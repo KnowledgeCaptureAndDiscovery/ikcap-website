@@ -13,6 +13,7 @@ function usage {
   echo "  type: 'collaborators', 'interns', or 'previous-interns'"
   echo "  input-file: Path to the file containing the list of people"
   echo "  output-directory: Path to the folder where the content will be generated"
+  echo " Example: $0 interns tools/interns.txt content/authors"
   exit 1
 }
 
