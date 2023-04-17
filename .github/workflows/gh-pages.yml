@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.9"
           cache: "pip" # caching pip dependencies
-      - run: pip install academic
+      - run: pip install academic==0.5.1
 
       - run: for i in $(find . -name \*.bib | xargs); do academic import --bibtex ${i}; done
 
