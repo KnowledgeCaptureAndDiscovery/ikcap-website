@@ -19,9 +19,9 @@ jobs:
         with:
           python-version: "3.9"
           cache: "pip" # caching pip dependencies
-      - run: pip install academic
+      - run: pip install academic==0.5.1
 
-      - run: academic import --bibtex papers/*
+      - run: for i in $(find . -name \*.bib | xargs); do academic import --bibtex ${i}; done
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
