@@ -26,6 +26,21 @@ type=$1
 input_file=$2
 output_directory=$3
 
+
+
+declare -A role_map=(
+    ["collaborators"]="Collaborator"
+    ["previous-interns"]="Previous Intern"
+    ["interns"]="Intern"
+)
+
+declare -A user_group_map=(
+    ["collaborators"]="Collaborators"
+    ["previous-interns"]="Previous Interns"
+    ["interns"]="Interns"
+)
+
+
 # Check that type is valid
 if [[ "$type" != "collaborators" && "$type" != "interns" && "$type" != "previous-interns" ]]; then
   echo "Error: Invalid type"
@@ -46,12 +61,16 @@ fi
 
 
 FOLDER=${output_directory}
-role=$(capitalize ${type})
-
+echo ${role_map[${type}]}
+exit 0
 for i in $(cat ${input_file}); do
 	username=$(echo ${i} | gsed 's/ /-/'g |  gsed 's/./\L&/g')
-	mkdir -p ${$FOLDER}/${username}/
-	touch ${FOLDER}/${username}/_index.md
+  if [ -d "${FOLDER}/${username}" ]; then
+    echo "Error: ${username} already exists"
+  else
+    echo "Creating ${username}"
+    mkdir ${FOLDER}/${username}
+    touch ${FOLDER}/${username}/_index.md
 	echo "---
 # Display name
 title:  ${i}
@@ -60,9 +79,12 @@ title:  ${i}
 superuser: false
 
 # Role/position
-role: ${role}
+role: ${role_map[${type}]}
 
 user_groups:
-  - ${role}
+  - ${user_group_map[${type}]}
+
+
 ---" > ${FOLDER}/${username}/_index.md
+  fi
 done
