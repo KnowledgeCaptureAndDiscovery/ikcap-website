@@ -21,7 +21,7 @@ marketing:
     description: 'We develop AI approaches that use knowledge to accelerate and innovate scientific discovery processes.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-DEKKHSMQR2'
     baidu_tongji: ''
   verification:
     google: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/KnowledgeCaptureAndDiscovery/knowledgecaptureanddiscovery.github.io'
     content_dir: content
     branch: main
   avatar:
