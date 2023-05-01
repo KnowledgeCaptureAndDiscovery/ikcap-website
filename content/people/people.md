@@ -24,7 +24,7 @@ content:
     - Research Engineers
     - Visitors
     #- Alumni
-    #- Interns
+    - Interns
     #- Previous Interns
     #- Collaborator
 design:
@@ -32,4 +32,3 @@ design:
   show_role: true
   show_social: true
 ---
-

@@ -111,6 +111,7 @@ sections:
           - Administration
           - Research Engineers
           - Visitors
+          - Interns
       design:
         show_interests: false
         show_role: true
