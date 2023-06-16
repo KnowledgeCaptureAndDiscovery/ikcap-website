@@ -19,9 +19,6 @@ main:
   - name: Students
     url: students
     weight: 35
-  - name: Past Collaborators
-    url: past_collaborators
-    weight: 38
   - name: Recent graduates
     url: graduates
     weight: 40

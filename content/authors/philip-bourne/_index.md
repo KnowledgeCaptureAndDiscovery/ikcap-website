@@ -9,5 +9,5 @@ superuser: false
 role: Collaborator
 
 user_groups:
-  - Past Collaborator
+  - Past Collaborator   
 ---
