@@ -9,5 +9,5 @@ superuser: false
 role: Previous Intern
 
 user_groups:
-  - Previous Intern
+  - Previous Interns
 ---
