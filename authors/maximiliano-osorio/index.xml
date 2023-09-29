@@ -4,30 +4,6 @@
 &lt;li>&lt;a href="https://dev.mint.isi.edu" target="_blank" rel="noopener">Dev Website&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/mintproject" target="_blank" rel="noopener">GitHub organization&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://mintproject.readthedocs.io/en/latest/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>DISK</title><link>https://knowledgecaptureanddiscovery.github.io/project/disk/</link><pubDate>Mon, 09 May 2022 16:09:29 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/project/disk/</guid><description>&lt;p>DISK is a novel framework to test and revise hypotheses based on automatic analysis of scientific data repositories that grow over time. Given an input hypothesis, DISK is able to search for appropriate data to test it and revise it accordingly, and does this continuously as new data be-comes available. DISK is also capable of triggering new kinds of analyses when new kinds of data become availa-ble. The provenance of the revised hypotheses is recorded, with all the details of the analyses. We are using DISK with multi-omics data from a seminal cancer study. Ongoing research includes extending DISK to generate interactive explanations for scientists based on provenance records, developing a general approach to the design of meta-workflows, handling more complex hypotheses, and exploring the use of this approach in other areas of science.&lt;/p>
-&lt;p>Links:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="https://www.disk-project.org/" target="_blank" rel="noopener">Website&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://disk.readthedocs.io/en/latest/" target="_blank" rel="noopener">User Guide&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">Main Repository&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://knowledgecaptureanddiscovery.github.io/NeuroDISK/" target="_blank" rel="noopener">NeuroDISK landing page&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="http://skc.isi.edu/disk-portal/" target="_blank" rel="noopener">NeuroDISK page&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>Repositories&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK" target="_blank" rel="noopener">EnigmaDISK&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">DISK general&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK UI&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Wings</title><link>https://knowledgecaptureanddiscovery.github.io/project/wings/</link><pubDate>Mon, 09 May 2022 16:21:55 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/project/wings/</guid><description>&lt;p>WINGS is a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources.&lt;/p>
 &lt;h2 id="links">Links&lt;/h2>
 &lt;ul>
@@ -52,4 +28,52 @@
 &lt;li>
 &lt;p>&lt;a href="https://enigma-disk.wings.isi.edu/wings-portal/login" target="_blank" rel="noopener">Enigma&lt;/a>&lt;/p>
 &lt;/li>
+&lt;/ul></description></item><item><title>DISK</title><link>https://knowledgecaptureanddiscovery.github.io/project/disk/</link><pubDate>Mon, 09 May 2022 16:09:29 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/project/disk/</guid><description>&lt;p>DISK is a novel framework to test and revise hypotheses based on automatic analysis of scientific data repositories that grow over time. Given an input hypothesis, DISK is able to search for appropriate data to test it and revise it accordingly, and does this continuously as new data be-comes available. DISK is also capable of triggering new kinds of analyses when new kinds of data become available.
+The provenance of the revised hypotheses is recorded, with all the details of the analyses.
+Ongoing research includes extending DISK to generate interactive explanations for scientists based on provenance records, developing a general approach to the design of meta-workflows, handling more complex hypotheses, and exploring the use of this approach in other areas of science.&lt;/p>
+&lt;p>Links:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.disk-project.org/" target="_blank" rel="noopener">Website&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://disk.readthedocs.io/en/stable/" target="_blank" rel="noopener">User Guide&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://neuro.disk.isi.edu/" target="_blank" rel="noopener">NeuroDISK portal&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="http://climate.disk.isi.edu/" target="_blank" rel="noopener">ClimateDISK portal&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Repositories&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">DISK general&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK UI&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>NeuroDISK</title><link>https://knowledgecaptureanddiscovery.github.io/project/neuro-disk/</link><pubDate>Mon, 09 May 2022 16:09:29 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/project/neuro-disk/</guid><description>&lt;p>There is abundant brain image and genetic data for researchers to understand brain structure, functions and disease. It is challenging to carry out comprehensive analyses that integrate available data. Though data generation is continuous, analyses are seldom repeated and their results updated.&lt;/p>
+&lt;p>The Neuro-DISK project automates the analysis of neuroscience data through artificial intelligence (AI).
+NeuroDISK is an AI-driven discovery engine that will continually processes neuroscience data.
+We use ontologies of hypotheses to represent science driving questions, semantic representations to reason about the data available, machine learning to improve accuracy, and intelligent workflows to customize the analysis to the data.
+Given a science question, NeuroDISK autonomously determines what data is needed, triggers the execution of relevant families of workflows, customize them to the data at hand, and alert users of interesting findings.&lt;/p>
+&lt;p>We are developing NeuroDISK in collaboration with researchers from the ENIGMA consortium who study different neuroscience questions.&lt;/p>
+&lt;p>Links:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://knowledgecaptureanddiscovery.github.io/NeuroDISK/" target="_blank" rel="noopener">NeuroDISK landing page&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://neuro.disk.isi.edu/" target="_blank" rel="noopener">NeuroDISK page&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Repositories&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">DISK general&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK UI&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Climate DISK</title><link>https://knowledgecaptureanddiscovery.github.io/project/climate-disk/</link><pubDate>Mon, 09 May 2022 16:09:29 -0700</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/project/climate-disk/</guid><description>&lt;p>Climate DISK uses the DISK framework to automate climate analysis using observational paleoclimate data stored on the LinkedEarth platform (in the LiPD format).
+These datasets consist of paleoclimate measurements (such as tree ring width, the isotopic composition of ice, bulk composition of marine and lake sediments) as a proxy for past environmental variables such as temperature and precipitation.&lt;/p>
+&lt;p>Links:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://climate.disk.isi.edu/" target="_blank" rel="noopener">Climate DISK page&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wiki.linked.earth/Main_Page" target="_blank" rel="noopener">LinkedEarth platform&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Repositories&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-WEB" target="_blank" rel="noopener">DISK general&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KnowledgeCaptureAndDiscovery/DISK-UI" target="_blank" rel="noopener">DISK UI&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>A framework for the broad dissemination of hydrological models for non-expert users</title><link>https://knowledgecaptureanddiscovery.github.io/publication/schaffhauser-2023105695/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/publication/schaffhauser-2023105695/</guid><description/></item><item><title>An AI Approach to Integrating Climate, Hydrology, and Agriculture Models</title><link>https://knowledgecaptureanddiscovery.github.io/publication/berhanu-etal-siaia-2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/publication/berhanu-etal-siaia-2022/</guid><description/></item><item><title>Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making</title><link>https://knowledgecaptureanddiscovery.github.io/publication/gil-etal-tiis-2021/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/publication/gil-etal-tiis-2021/</guid><description/></item><item><title>OKG-Soft: An Open Knowledge Graph with Machine Readable Scientific Software Metadata</title><link>https://knowledgecaptureanddiscovery.github.io/publication/garijo-etal-escience-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://knowledgecaptureanddiscovery.github.io/publication/garijo-etal-escience-19/</guid><description/></item></channel></rss>
