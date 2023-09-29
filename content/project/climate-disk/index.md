@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "DISK"
-summary: "Automating hypothesis-driven discovery in different scientific domains"
+title: "Climate DISK"
+summary: "Climate DISK uses the DISK framework to automate climate analysis"
 authors:
   [
     "varunr",
@@ -12,10 +12,11 @@ authors:
     "deborah-khider",
     "maximiliano-osorio",
   ]
-tags: ["Featured"]
+#tags: ["Featured"]
+tags: []
 categories: []
 date: 2022-05-09T16:09:29-07:00
-weight: 5
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -49,17 +50,13 @@ url_video: ""
 slides: ""
 ---
 
-DISK is a novel framework to test and revise hypotheses based on automatic analysis of scientific data repositories that grow over time. Given an input hypothesis, DISK is able to search for appropriate data to test it and revise it accordingly, and does this continuously as new data be-comes available. DISK is also capable of triggering new kinds of analyses when new kinds of data become available.
-The provenance of the revised hypotheses is recorded, with all the details of the analyses.
-Ongoing research includes extending DISK to generate interactive explanations for scientists based on provenance records, developing a general approach to the design of meta-workflows, handling more complex hypotheses, and exploring the use of this approach in other areas of science.
+Climate DISK uses the DISK framework to automate climate analysis using observational paleoclimate data stored on the LinkedEarth platform (in the LiPD format).
+These datasets consist of paleoclimate measurements (such as tree ring width, the isotopic composition of ice, bulk composition of marine and lake sediments) as a proxy for past environmental variables such as temperature and precipitation.
 
 Links:
 
-- [Website](https://www.disk-project.org/)
-- [User Guide](https://disk.readthedocs.io/en/stable/)
-
-- [NeuroDISK portal](http://neuro.disk.isi.edu/)
-- [ClimateDISK portal](http://climate.disk.isi.edu/)
+- [Climate DISK page](http://climate.disk.isi.edu/)
+- [LinkedEarth platform](https://wiki.linked.earth/Main_Page)
 
 Repositories
 
